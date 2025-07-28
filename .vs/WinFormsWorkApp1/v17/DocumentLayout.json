@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programs\\C#\\WinFormsWorkApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|d:\\programs\\c#\\winformsworkapp1\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|solutionrelative:forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|d:\\programs\\c#\\winformsworkapp1\\forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|solutionrelative:forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|d:\\programs\\c#\\winformsworkapp1\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|solutionrelative:forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|d:\\programs\\c#\\winformsworkapp1\\forms\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4611AFE6-B80E-4570-A406-0D66AE048CB1}|WinFormsWorkApp1.csproj|solutionrelative:forms\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillingForm.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\BillingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BillingForm.cs",
+              "ToolTip": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\BillingForm.cs",
+              "RelativeToolTip": "Forms\\BillingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:35:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeeForm.Designer.cs",
+              "ToolTip": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "Forms\\EmployeeForm.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAgwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:35:11.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeeForm.cs",
+              "ToolTip": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\EmployeeForm.cs",
+              "RelativeToolTip": "Forms\\EmployeeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:34:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeeForm.cs",
+              "ToolTip": "D:\\Programs\\C#\\WinFormsWorkApp1\\Forms\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "Forms\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:34:11.839Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
